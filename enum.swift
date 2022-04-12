@@ -143,3 +143,4 @@ maiorSalario()
 // A logica é passar um salsrio e verificar qual é o maior salario, como o maior é do diretor então eu só altero a do restante e nao mexo com a do diretor, ta, vou pensar em algo aqui pera. Acho que um jeito mais facil de fazer isso seria:
 // eu faria um array com todos os salarios. Separaria o maior deles. entao os proximos salarios nao poderiam ser maior que aquele salario que a gente extraiu do array, entendeu?
 // Entendi blz
+//aqui
